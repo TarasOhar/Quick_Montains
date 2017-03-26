@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick_Mountains.Plugins", "Quick_Mountains.Plugins.csproj", "{7C248577-E1A2-ED52-6D00-3D638C9E885E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick_Mountains", "Quick_Mountains.csproj", "{708DFD9F-E3A6-CF88-F0DD-FEDA860F270D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick_Mountains.Editor.Plugins", "Quick_Mountains.Editor.Plugins.csproj", "{CB9ED534-0475-ABEB-8DD1-668923DD5DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C248577-E1A2-ED52-6D00-3D638C9E885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C248577-E1A2-ED52-6D00-3D638C9E885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C248577-E1A2-ED52-6D00-3D638C9E885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C248577-E1A2-ED52-6D00-3D638C9E885E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708DFD9F-E3A6-CF88-F0DD-FEDA860F270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708DFD9F-E3A6-CF88-F0DD-FEDA860F270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708DFD9F-E3A6-CF88-F0DD-FEDA860F270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708DFD9F-E3A6-CF88-F0DD-FEDA860F270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9ED534-0475-ABEB-8DD1-668923DD5DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9ED534-0475-ABEB-8DD1-668923DD5DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9ED534-0475-ABEB-8DD1-668923DD5DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9ED534-0475-ABEB-8DD1-668923DD5DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
